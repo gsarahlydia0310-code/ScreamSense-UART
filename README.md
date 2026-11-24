@@ -14,7 +14,7 @@ To study UART-based serial communication using Arduino Uno and demonstrate it by
 | LED | 1 |
 | Buzzer | 1 |
 | Breadboard | 1 |
-| Jumper wires (male-to-male) | As required |
+| Jumper wires (male-to-male,female-to-female,female-to-male) | As required |
 | USB cable | 1 |
 
 ## Circuit Connections
